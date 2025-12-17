@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "淡単",
+  "base_artist": "雨良",
+  "createdAt": "2025-12-17T07:56:11.863789Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "淡単 (feat. 重音テト)",
+      "artist": "雨良",
+      "has_synced": false,
+      "path": "select/pl_01_淡単_(feat._重音テト)_雨良.txt"
+    }
+  ]
+}
